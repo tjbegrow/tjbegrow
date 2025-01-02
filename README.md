@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler Begrow</h1>
-<h3 align="center">An aspiring Data Scientist from USA</h3>
+<h3 align="center">An Software Developer from USA</h3>
 
-- 🌱 I’m currently learning **Python and SQL for Data Science**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **tjbegrow@gmail.com**
 
